@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤵 Moreno Akbari Pasha<br>🌱 17 Years Old<br>💻 I’m currently learning Laravel<br>⚡ Fun fact: Even though my major is coding, I prefer design.
+🤵 Moreno Akbari Pasha<br>🌱 17 Years Old<br>💻 I’m currently learning Laravel and Odoo<br>⚡ Fun fact: Even though my major is coding, I prefer design.
 
 
 ## 🌐 Socials:
